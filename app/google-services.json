@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221352997182",
+    "project_id": "muiscappv1",
+    "storage_bucket": "muiscappv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221352997182:android:20090b2a5db2477f0b7c6f",
+        "android_client_info": {
+          "package_name": "com.example.musicappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221352997182-joja9911ktgcferkq54ei99b1qrri47a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDloWUT8Kp-0qp1A6dpSbI98IJvNyR4gjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221352997182-joja9911ktgcferkq54ei99b1qrri47a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
